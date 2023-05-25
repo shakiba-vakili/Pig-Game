@@ -7,14 +7,3 @@ Players take turns to roll a single dice as many times as they wish, adding all 
 
 <img src="img/pig-game-demo.png" alt="Aimeos logo" title="Aimeos"  />
 
-### Built With
-
-
-* [![css][css]][csc-url]
-<!-- * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url] -->
