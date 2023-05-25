@@ -6,5 +6,5 @@ Players take turns to roll a single dice as many times as they wish, adding all 
 
 
 <a href="[img/pig-game-demo.png]">
-![Pig-Game](img/pig-game-demo.png)
+      <img src="img/pig-game-demo.png" alt="Aimeos logo" title="Aimeos"  />
 </a>
