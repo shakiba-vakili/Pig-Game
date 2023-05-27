@@ -5,5 +5,5 @@ Players take turns to roll a single dice as many times as they wish, adding all 
 
 
 
-<img src="img/pig-game-demo.png" alt="Aimeos logo" title="Aimeos"  />
+<img src="img/pig-game-demo.png" alt="pig game demo" title="pig game"  />
 
