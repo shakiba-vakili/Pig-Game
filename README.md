@@ -7,3 +7,8 @@ Players take turns to roll a single dice as many times as they wish, adding all 
 
 <img src="img/pig-game-demo.png" alt="pig game demo" title="pig game"  />
 
+## links
+
+- linkedin - [Shakiba Sadat Vakili](https://www.linkedin.com/in/shakiba-vakili/)
+- GitHub - [@shakiba-vakili](https://github.com/shakiba-vakili)
+- Frontend Mentor - [@shakiba-vakili](https://www.frontendmentor.io/profile/shakiba-vakili)
